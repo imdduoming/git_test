@@ -1,1 +1,1 @@
-clone test in local repo
+clone test in local repository demo
