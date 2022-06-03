@@ -1,2 +1,0 @@
-line 1 in local repo
-line 2 in local repo
