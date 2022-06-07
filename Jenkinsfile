@@ -23,7 +23,7 @@ pipeline {
     post {
         always 
         {
-            echo "2022060814"
+            echo "202206071432"
         }
     }
 }
